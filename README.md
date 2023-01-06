@@ -1,3 +1,5 @@
+Enviroment library
+
 absl-py                 1.1.0
 aiocontextvars          0.2.2
 aiohttp                 3.8.1
@@ -91,3 +93,7 @@ wincertstore            0.2
 wrapt                   1.14.1
 yarl                    1.6.3
 zipp                    3.8.0
+
+onnx_convert dosyası çalıştırılarak dönüşüm gerçekleştirilir.
+
+Cuda 10.1 cudnn cudart64_101
