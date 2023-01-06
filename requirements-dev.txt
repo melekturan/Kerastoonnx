@@ -1,0 +1,6 @@
+numpy<=1.19.5
+pillow<=8.2.0
+pytest
+onnxruntime
+coverage
+flake8
